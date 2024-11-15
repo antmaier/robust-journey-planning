@@ -3,6 +3,8 @@ Public transports route planner with connection certainty based on past journeys
 
 TL;DR see [this video](https://youtu.be/GWBFiA9lSIM)
 
+----
+
 **Executive summary:** build a robust SBB journey planner for the Zürich area, and make a short video presentation of it, to be done in **groups of 5 or 6**.
 
 * Video presentations are due before **May 29th, 23:59**
